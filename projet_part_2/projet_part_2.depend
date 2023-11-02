@@ -1,0 +1,232 @@
+# depslib dependency file v1.0
+1698933816 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+	"PutVoxel.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"CutBox.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+
+1697623679 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\sculptor.h
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<iostream>
+
+1698932393 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\sculptor.cpp
+	"Sculptor.h"
+
+1698933093 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\cutbox.cpp
+	"CutBox.h"
+
+1698933106 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\cutbox.h
+	"FiguraGeometrica.h"
+
+1698932733 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\figurageometrica.h
+	"Sculptor.h"
+
+1698933196 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\cutsphere.cpp
+	"CutSphere.h"
+
+1698933210 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\cutsphere.h
+	"FiguraGeometrica.h"
+
+1698933007 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\cutvoxel.cpp
+	"CutVoxel.h"
+
+1698933018 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\cutvoxel.h
+	"FiguraGeometrica.h"
+
+1698933051 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\putbox.cpp
+	"PutBox.h"
+
+1698933060 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\putbox.h
+	"FiguraGeometrica.h"
+
+1698933239 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\putellipsoid.cpp
+	"PutEllipsoid.h"
+
+1698933248 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\putellipsoid.h
+	"FiguraGeometrica.h"
+
+1698933148 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\putsphere.cpp
+	"PutSphere.h"
+
+1698933160 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\putsphere.h
+	"FiguraGeometrica.h"
+
+1698932945 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\putvoxel.cpp
+	"PutVoxel.h"
+
+1698932956 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\putvoxel.h
+	"FiguraGeometrica.h"
+
+1698933390 source:c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\src\cutellipsoid.cpp
+	"CutEllipsoid.h"
+
+1698933399 c:\users\mathe.desktop-6kv2r3n\onedrive\documentos\project\aeou\include\cutellipsoid.h
+	"FiguraGeometrica.h"
+
+1698966080 source:c:\users\jerfeson\desktop\aeou\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+	"PutVoxel.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"CutBox.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+
+1698955029 c:\users\jerfeson\desktop\aeou\include\sculptor.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+
+1698932734 c:\users\jerfeson\desktop\aeou\include\figurageometrica.h
+	"Sculptor.h"
+
+1698932958 c:\users\jerfeson\desktop\aeou\include\putvoxel.h
+	"FiguraGeometrica.h"
+
+1698933020 c:\users\jerfeson\desktop\aeou\include\cutvoxel.h
+	"FiguraGeometrica.h"
+
+1698933062 c:\users\jerfeson\desktop\aeou\include\putbox.h
+	"FiguraGeometrica.h"
+
+1698933108 c:\users\jerfeson\desktop\aeou\include\cutbox.h
+	"FiguraGeometrica.h"
+
+1698933162 c:\users\jerfeson\desktop\aeou\include\putsphere.h
+	"FiguraGeometrica.h"
+
+1698933212 c:\users\jerfeson\desktop\aeou\include\cutsphere.h
+	"FiguraGeometrica.h"
+
+1698933250 c:\users\jerfeson\desktop\aeou\include\putellipsoid.h
+	"FiguraGeometrica.h"
+
+1698933400 c:\users\jerfeson\desktop\aeou\include\cutellipsoid.h
+	"FiguraGeometrica.h"
+
+1698933094 source:c:\users\jerfeson\desktop\aeou\src\cutbox.cpp
+	"CutBox.h"
+
+1698933392 source:c:\users\jerfeson\desktop\aeou\src\cutellipsoid.cpp
+	"CutEllipsoid.h"
+
+1698933198 source:c:\users\jerfeson\desktop\aeou\src\cutsphere.cpp
+	"CutSphere.h"
+
+1698933008 source:c:\users\jerfeson\desktop\aeou\src\cutvoxel.cpp
+	"CutVoxel.h"
+
+1698933052 source:c:\users\jerfeson\desktop\aeou\src\putbox.cpp
+	"PutBox.h"
+
+1698933240 source:c:\users\jerfeson\desktop\aeou\src\putellipsoid.cpp
+	"PutEllipsoid.h"
+
+1698933150 source:c:\users\jerfeson\desktop\aeou\src\putsphere.cpp
+	"PutSphere.h"
+
+1698932946 source:c:\users\jerfeson\desktop\aeou\src\putvoxel.cpp
+	"PutVoxel.h"
+
+1698955029 source:c:\users\jerfeson\desktop\aeou\src\sculptor.cpp
+	"Sculptor.h"
+
+1698966080 source:c:\users\jerfeson\desktop\projet_part_2\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Sculptor.h"
+	"FiguraGeometrica.h"
+	"PutVoxel.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"CutBox.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+
+1698966432 c:\users\jerfeson\desktop\projet_part_2\include\sculptor.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	<iomanip>
+
+1698932734 c:\users\jerfeson\desktop\projet_part_2\include\figurageometrica.h
+	"Sculptor.h"
+
+1698932958 c:\users\jerfeson\desktop\projet_part_2\include\putvoxel.h
+	"FiguraGeometrica.h"
+
+1698933020 c:\users\jerfeson\desktop\projet_part_2\include\cutvoxel.h
+	"FiguraGeometrica.h"
+
+1698933062 c:\users\jerfeson\desktop\projet_part_2\include\putbox.h
+	"FiguraGeometrica.h"
+
+1698933108 c:\users\jerfeson\desktop\projet_part_2\include\cutbox.h
+	"FiguraGeometrica.h"
+
+1698933162 c:\users\jerfeson\desktop\projet_part_2\include\putsphere.h
+	"FiguraGeometrica.h"
+
+1698933212 c:\users\jerfeson\desktop\projet_part_2\include\cutsphere.h
+	"FiguraGeometrica.h"
+
+1698933250 c:\users\jerfeson\desktop\projet_part_2\include\putellipsoid.h
+	"FiguraGeometrica.h"
+
+1698933400 c:\users\jerfeson\desktop\projet_part_2\include\cutellipsoid.h
+	"FiguraGeometrica.h"
+
+1698933094 source:c:\users\jerfeson\desktop\projet_part_2\src\cutbox.cpp
+	"CutBox.h"
+
+1698933392 source:c:\users\jerfeson\desktop\projet_part_2\src\cutellipsoid.cpp
+	"CutEllipsoid.h"
+
+1698933198 source:c:\users\jerfeson\desktop\projet_part_2\src\cutsphere.cpp
+	"CutSphere.h"
+
+1698933008 source:c:\users\jerfeson\desktop\projet_part_2\src\cutvoxel.cpp
+	"CutVoxel.h"
+
+1698933052 source:c:\users\jerfeson\desktop\projet_part_2\src\putbox.cpp
+	"PutBox.h"
+
+1698933240 source:c:\users\jerfeson\desktop\projet_part_2\src\putellipsoid.cpp
+	"PutEllipsoid.h"
+
+1698933150 source:c:\users\jerfeson\desktop\projet_part_2\src\putsphere.cpp
+	"PutSphere.h"
+
+1698932946 source:c:\users\jerfeson\desktop\projet_part_2\src\putvoxel.cpp
+	"PutVoxel.h"
+
+1698955029 source:c:\users\jerfeson\desktop\projet_part_2\src\sculptor.cpp
+	"Sculptor.h"
+
